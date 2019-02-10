@@ -1,0 +1,4 @@
+
+# Experimental Project based on Minix3
+
+This repository contains a fork of the minix3 operating. The purpose of this project is to modify minix3 to experiment with ideas of  unikernels and exokernels library operating systems. A Unikernel is an operating system kernel that is optimized to run one application thus minimizing the size of the operating system, removing multiprogramming system overhead, and increasing security. An exokernel is an operating system kernel that allows operating system applications more control over system resources by presenting application developers with more control over system resources abstractions. This project aims to combine ideas from both unikernels and exokernels  to produce tiny, secure, operating systems that are highly optimized for a single application.  
